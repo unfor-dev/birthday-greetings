@@ -5,5 +5,7 @@ import { Leva } from 'leva'
 
 createRoot(document.getElementById('root')).render(
   <>
+    <App />
+    <Leva />
   </>
 )
