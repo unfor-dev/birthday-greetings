@@ -1,7 +1,7 @@
 export default function Overlay() {
   return (
     <>
-      <h2>HAPPY BIRTHDAY!</h2>
+      <h2>HAPPY BIRTHDAY !</h2>
 
       <div className="container">
         <h1>🎉 Celebration Time! 🎂</h1>

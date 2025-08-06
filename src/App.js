@@ -20,6 +20,7 @@ export default function App() {
           minDistance={4}
           maxDistance={15}
           maxPolarAngle={Math.PI / 1.8}
+          enablePan={false}
         />
         <ExplosionConfetti
           ref={ref}

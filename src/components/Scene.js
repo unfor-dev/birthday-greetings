@@ -8,6 +8,7 @@ export default function Scene(props) {
     <Center>
       <Float>
         <Text3D
+          position={[0, 1.2, 0]}
           curveSegments={16}
           bevelEnabled
           bevelSize={0.02}
